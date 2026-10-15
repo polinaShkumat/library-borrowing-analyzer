@@ -1,0 +1,31 @@
+student_id,name,email
+S001,Uma Vos,uma.vos@student.example.nl
+S002,Liam de Vries,liam.devries@student.example.nl
+S003,Sofia Lopez,sofia.lopez@student.example.nl
+S004,Noah Peters,noah.peters@student.example.nl
+S005,Emma Visser,emma.visser@student.example.nl
+S006,Daan Bakker,daan.bakker@student.example.nl
+S007,Mila Bakker,mila.bakker@student.example.nl
+S008,Lucas Jansen,lucas.jansen@student.example.nl
+S009,Olena Peters,olena.peters@student.example.nl
+S010,Sem de Vries,sem.devries@student.example.nl
+S011,Yara Vos,yara.vos@student.example.nl
+S012,Finn Peters,finn.peters@student.example.nl
+S013,Nora Brouwer,nora.brouwer@student.example.nl
+S014,Levi Kovalenko,levi.kovalenko@student.example.nl
+S015,Zoe de Vries,zoe.devries@student.example.nl
+S016,Max Bos,max.bos@student.example.nl
+S017,Iris Meijer,iris.meijer@student.example.nl
+S018,Bram Lopez,bram.lopez@student.example.nl
+S019,Lotte Lopez,lotte.lopez@student.example.nl
+S020,Jesse de Vries,jesse.devries@student.example.nl
+S021,Eva Bakker,eva.bakker@student.example.nl
+S022,Ruben Bakker,ruben.bakker@student.example.nl
+S023,Anna Kovalenko,anna.kovalenko@student.example.nl
+S024,Thijs Bos,thijs.bos@student.example.nl
+S025,Sara Lopez,sara.lopez@student.example.nl
+S026,Milan Kovalenko,milan.kovalenko@student.example.nl
+S027,Fenna Bakker,fenna.bakker@student.example.nl
+S028,Luuk Peters,luuk.peters@student.example.nl
+S029,Julia Vos,julia.vos@student.example.nl
+S030,Ivan Peters,ivan.peters@student.example.nl

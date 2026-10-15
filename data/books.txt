@@ -1,0 +1,26 @@
+book_id,title,author
+B001,War and Peace,Leo Tolstoy
+B002,1984,George Orwell
+B003,Pride and Prejudice,Jane Austen
+B004,The Hobbit,J.R.R. Tolkien
+B005,Brave New World,Aldous Huxley
+B006,Dune,Frank Herbert
+B007,The Great Gatsby,F. Scott Fitzgerald
+B008,Crime and Punishment,Fyodor Dostoevsky
+B009,Frankenstein,Mary Shelley
+B010,The Odyssey,Homer
+B011,Jane Eyre,Charlotte Bronte
+B012,Moby Dick,Herman Melville
+B013,Dracula,Bram Stoker
+B014,Emma,Jane Austen
+B015,Hamlet,William Shakespeare
+B016,The Little Prince,Antoine de Saint-Exupery
+B017,Animal Farm,George Orwell
+B018,Ulysses,James Joyce
+B019,The Trial,Franz Kafka
+B020,Les Miserables,Victor Hugo
+B021,Don Quixote,Miguel de Cervantes
+B022,Wuthering Heights,Emily Bronte
+B023,The Catcher in the Rye,J.D. Salinger
+B024,Fahrenheit 451,Ray Bradbury
+B025,Anna Karenina,Leo Tolstoy
